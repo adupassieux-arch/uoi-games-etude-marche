@@ -2,7 +2,7 @@
 
 Étude de marché complète menée pour un studio de jeu vidéo fictif (UOI Games) envisageant de lancer son premier jeu Triple A : analyse des tendances du marché (SWOT, PESTEL), segmentation de la clientèle à partir d'un catalogue de 440 000+ jeux, validation par questionnaire terrain (tests de corrélation), et recommandation finale de concept et d'écosystème.
 
-Projet réalisé dans le cadre du parcours Business Intelligence Analyst (OpenClassrooms) — Aurélie Dupassieux, Data ESN.
+Projet réalisé dans le cadre du parcours Business Intelligence Analyst — Aurélie Dupassieux, Data ESN.
 
 ## Notebook de synthèse
 
